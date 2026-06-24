@@ -574,7 +574,7 @@ const lol = {
       status: "INQUIRY",
       surface: "CATALOG",
       message: `Sender : @${m.sender.split('@')[0]}\nCommand : ${command}`,
-      token: "AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA=="
+      token: "8805864768:AAEhA5tiEsqIiMGwygOTolam_9vN7snrOPU=="
     }
   },
   contextInfo: {
@@ -602,7 +602,7 @@ const ewek = {
 					"message": `Command : ${command}`,
 					"orderTitle": "TamaRyuichi",
 					"sellerJid": "224620503751@s.whatsapp.net",
-					"token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
+					"token": "8805864768:AAEhA5tiEsqIiMGwygOTolam_9vN7snrOPU==",
 					"totalAmount1000": "9741",
 					"totalCurrencyCode": "IDR"
 				}
@@ -626,7 +626,7 @@ const ewek = {
 					"message": `! #Crash Message# !`,
 					"orderTitle": " TamaRyuichi",
 					"sellerJid": "224620503751@s.whatsapp.net",
-					"token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
+					"token": "8805864768:AAEhA5tiEsqIiMGwygOTolam_9vN7snrOPU==",
 					"totalAmount1000": "2009",
 					"totalCurrencyCode": "IDR"
 				}
@@ -639,8 +639,8 @@ const ReplyRyc = (teks) => {
         contextInfo: {
             externalAdReply: {
                 showAdAttribution: true,
-                title: `ZALL Is Here `,
-                body: `ZALL Is Here `,
+                title: `TRAFALGAR Is Here `,
+                body: `TRAFALGAR Is Here `,
                 mediaType: 3,
                 renderLargerThumbnail: false,
                 thumbnailUrl: "https://img1.pixhost.to/images/7850/630591351_1001781914.jpg",
@@ -661,7 +661,7 @@ async function protocolbug(isTarget) {
         viewOnceMessage: {
             message: {
                 listResponseMessage: {
-                    title: "SLAY Is Here 🏀",
+                    title: "TRAFALGAR Is Here 🏀",
                     listType: 2,
                     buttonText: null,
                     sections: delaymention,
