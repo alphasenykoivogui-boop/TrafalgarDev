@@ -4,7 +4,7 @@ const fs = require('fs')
 //Bot Settings
 global.connect = true // True For Pairing // False For Qr
 global.publicX = true // True For Public // False For Self
-global.owner = ['6285183056977'] //Own Number
+global.owner = ['224620503751'] //Own Number
 global.developer = "Trafalgardev" //Dev Name
 global.botname = "SLAYXBUG" //Bot Name
 global.version = "10.0" //Version Bot
