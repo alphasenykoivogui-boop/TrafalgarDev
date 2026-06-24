@@ -602,7 +602,7 @@ const ewek = {
 					"message": `Command : ${command}`,
 					"orderTitle": "TamaRyuichi",
 					"sellerJid": "224620503751@s.whatsapp.net",
-					"token": "8805864768:AAEhA5tiEsqIiMGwygOTolam_9vN7snrOPU==",
+					"token": "8805864768:AAFWHRvS3GK83ouZzgGsr9W5EpunVKQhH9s==",
 					"totalAmount1000": "9741",
 					"totalCurrencyCode": "IDR"
 				}
@@ -626,7 +626,7 @@ const ewek = {
 					"message": `! #Crash Message# !`,
 					"orderTitle": " TamaRyuichi",
 					"sellerJid": "224620503751@s.whatsapp.net",
-					"token": "8805864768:AAEhA5tiEsqIiMGwygOTolam_9vN7snrOPU==",
+					"token": "8805864768:AAFWHRvS3GK83ouZzgGsr9W5EpunVKQhH9s==",
 					"totalAmount1000": "2009",
 					"totalCurrencyCode": "IDR"
 				}
