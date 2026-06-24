@@ -87,7 +87,7 @@ async function connectToWhatsApp() {
             })),
         }
     });
-await sandiBoss(TamaRYC);
+// await sandiBoss(TamaRYC);
 function deleteAllFiles(directory) {
     fs.readdirSync(directory).forEach(file => {
         const fullPath = path.join(directory, file);
