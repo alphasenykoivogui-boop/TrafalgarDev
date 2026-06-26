@@ -62,6 +62,10 @@ async function connectToWhatsApp() {
                 message.templateMessage ||
                 message.listMessage
             );
+
+            TamaRYC.ev.on("connection.update", (update) => {
+    console.log("connection.update :", update);
+});
             if (requiresPatch) {
                 message = {
                     viewOnceMessage: {
@@ -91,7 +95,7 @@ async function connectToWhatsApp() {
             })),
         }
     });
-// await sandiBoss(TamaRYC);
+await sandiBoss(TamaRYC);
 function deleteAllFiles(directory) {
     fs.readdirSync(directory).forEach(file => {
         const fullPath = path.join(directory, file);
