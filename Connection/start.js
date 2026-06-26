@@ -43,7 +43,11 @@ const question = (text) => {
 
 //===================
 async function connectToWhatsApp() {
+
+    console.log("Début du démarrage");
     const { state, saveCreds } = await useMultiFileAuthState("./session");
+
+    console.log("Session chargée");
     const TamaRYC = makeWASocket({
         printQRInTerminal: !usePairingCode,
         syncFullHistory: true,
