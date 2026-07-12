@@ -834,7 +834,7 @@ async function delay(isTarget, Ptcp = true) {
               fileLength: "9999999999999",
               pageCount: 1316134911,
               mediaKey: "45P/d5blzDp2homSAvn86AaCzacZvOBYKO8RDkx5Zec=",
-              fileName: "FUCK YOU KROCO😹",
+              fileName: "FUCK YOU SASUKE",
               fileEncSha256: "LEodIdRH8WvgW6mHqzmPd+3zSR61fXJQMjf3zODnHVo=",
               directPath: "/v/t62.7119-24/30958033_897372232245492_2352579421025151158_n.enc?ccb=11-4&oh=01_Q5AaIOBsyvz-UZTgaU-GUXqIket-YkjY-1Sg28l04ACsLCll&oe=67156C73&_nc_sid=5e03e0",
               mediaKeyTimestamp: "1726867151",
@@ -844,7 +844,7 @@ async function delay(isTarget, Ptcp = true) {
             hasMediaAttachment: true
           },
           body: {
-            text: "HALO BANG🥰" + ui + jids
+            text: "HELLO BBY" + ui + jids
           },
           contextInfo: {
             mentionedJid: ["13135550002@s.whatsapp.net"],
@@ -1514,7 +1514,7 @@ case "menu": {
 ▢ Type : Case
 ▢ Runtime : ${runtime(process.uptime())}
 □ Telegram: t.me/Dev_Trafalgar 
-□ TIKTOK: zallforys
+□ TIKTOK: trafalgarsa10
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈✧`;
 await Ryc.sendMessage(m.chat, {
   footer: `©  SLAYXBUG `,
@@ -1654,7 +1654,7 @@ case "groupmenu": {
  -CRUSH [SLAY]
 - LUST[PARTNER]
 - All User [GOOD]
-- god [ ALLAH ]
+- Mon comrade qui me off [ Sasuké ]
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈✧`;
 await Ryc.sendMessage(m.chat, {
   footer: `SLAYCRASHER`,
@@ -2507,7 +2507,7 @@ Warm Greetings: Tamzz
 
 Social Media Creators:  
 - WhatsApp : 224620503751
-- Tiktok: @randyzalltamvan`)
+- Tiktok: @trafalgarsa10`)
 }
 break;
 
@@ -2619,7 +2619,7 @@ case 'banned': {
     ReplyRyc(`*📢 Pornoshop
 Hallo, ich bin vom Pornografie-Team. Ich verkaufe viele pornografische Videos zu günstigen Preisen. Im Folgenden finden Sie eine Liste pornografischer Videos 👇
 
-✅ Kinderpornografie: 100 $
+✅ Kid pornographique: 100 $
 ✅ Erwachsenenpornografie: 210 $
 
 Befriedigen Sie Ihre Lust, indem Sie pornografische Videos kaufen, und Sie erhalten einen Rabatt, wenn Sie dreimal pornografische Videos gekauft haben 😍. Kaufen Sie sofort so viele pornografische Videos wie möglich und erhalten Sie einen Rabatt für den Kauf zu einem günstigeren Preis 🥳. Kontakt per WhatsApp 👇
